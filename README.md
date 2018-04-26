@@ -30,6 +30,8 @@ Generate App key by running `php artisan key:generate`
 
 Create `.env` file and update your db credentials
 
+Run `php artisan migrate`
+
 
 ## Running the tests
 
